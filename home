@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <header class="text-gray-600 body-font">
+        <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+          <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
+            
+            <div class="logo_area">  <img src="https://scontent.fdac24-1.fna.fbcdn.net/v/t1.0-9/p960x960/139718778_212093783910657_4301209931371438063_o.png?_nc_cat=104&ccb=3&_nc_sid=dd9801&_nc_ohc=__Jl0xFFtmsAX9B8jbs&_nc_oc=AQkRxUDS8Ooy1s2vrwxAgbX3nrdWiUsiSSOB0GPpuAAVfzklfZK3OlHpVDjYtERwZoU&_nc_ht=scontent.fdac24-1.fna&_nc_tp=30&oh=e5bf3424a35b813505a976e064b565a5&oe=6048C5EC" height=50px width=50px alt=""> </div>  
+
+              <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
+            </svg>
+            <span class="ml-3 text-xl">Ki Lagbe</span>
+          </a>
+          <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
+            <a href="Our Product.html"class="mr-5 hover:text-gray-900">Our Products</a>
+            <a href="http://m.me/2020.ki.lagbe"class="mr-5 hover:text-gray-900">Our Goal</a>
+            <a href=""class="mr-5 hover:text-gray-900">Contact Us</a>
+            <a href=""class="mr-5 hover:text-gray-900">About Us</a>
+          </nav>
+          <button class="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0"><a href="https://www.facebook.com/2020.ki.lagbe"> Go To Facebook Page</a>
+
+            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-1" viewBox="0 0 24 24">
+              <path d="M5 12h14M12 5l7 7-7 7"></path>
+            </svg>
+          </button>
+        </div>
+      </header>
+      <section class="text-gray-600 body-font">
+        <div class="container px-5 py-24 mx-auto flex flex-wrap">
+          <div class="flex w-full mb-20 flex-wrap">
+            <h1 class="sm:text-3xl text-2xl font-medium title-font text-red-900 lg:w-1/3 lg:mb-0 mb-4">Happy Valentine Day</h1>
+            <p class="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base">We offer you the best value of price in market. Get home delivery at a very low price. Be with us and suppot us</p>
+        </div>
+    </section>
+    <hr length=500px>
+        <section>
+        
+        <p><text-align:center><font size="100" color= light green>Try us today</font></p>
+    
+
+          <div class="flex flex-wrap md:-m-2 -m-1">
+            <div class="flex flex-wrap w-1/2">
+              <div class="md:p-2 p-1 w-1/2">
+                <img alt="gallery" class="w-full object-cover h-full object-center block" src="https://3.bp.blogspot.com/-f7TbdmFBlIQ/XL-MXAZEryI/AAAAAAABYWo/QPtjfGJopyk7ClWdrG5tAOmam5Pm9IASACLcBGAs/s1600/00100lPORTRAIT_00100_BURST20190420151559154_COVER%2Bcopy.jpg">
+              </div>
+              <div class="md:p-2 p-1 w-1/2">
+                <img alt="gallery" class="w-full object-cover h-full object-center block" src="https://s1.1zoom.me/big0/82/Roast_Chicken_Cutting_board_545758_1280x958.jpg">
+              </div>
+              <div class="md:p-2 p-1 w-full">
+                <img alt="gallery" class="w-full h-full object-cover object-center block" src="https://cdn.downtoearth.org.in/library/large/2019-03-05/0.89399200_1551782137_fast1.jpg">
+              </div>
+            </div>
+            <div class="flex flex-wrap w-1/2">
+              <div class="md:p-2 p-1 w-full">
+                <img alt="gallery" class="w-full h-full object-cover object-center block" src="https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/video/incremental_ace_inhibitors_video/650x350_incremental_ace_inhibitors_video.jpg?resize=*:350px">
+              </div>
+              <div class="md:p-2 p-1 w-1/2">
+                <img alt="gallery" class="w-full object-cover h-full object-center block" src="https://d33ljpvc0tflz5.cloudfront.net/dims3/MMH/d28bc3f/2147483647/strip/true/crop/6720x3570+0+910/resize/640x340!/quality/75/?url=https%3A%2F%2Fd26ua9paks4zq.cloudfront.net%2Fe1%2Fae%2F12ade0b8491cb4b9c83222736b6f%2Fgettyimages-931193062.jpg">
+              </div>
+              <div class="md:p-2 p-1 w-1/2">
+                <img alt="gallery" class="w-full object-cover h-full object-center block" src="https://cdn.vox-cdn.com/thumbor/iYRQ68O1oHqgPHDKcEixPG9lVNU=/0x0:4915x3930/1520x1013/filters:focal(1719x1156:2505x1942):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/61753005/clothingrack.0.jpg">
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <hr>
+      <footer class="text-gray-600 body-font">
+        <div class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
+          <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none"   viewBox="0 0 24 24"> 
+               <div class="logo_area">  <img src="https://scontent.fdac24-1.fna.fbcdn.net/v/t1.0-9/p960x960/139718778_212093783910657_4301209931371438063_o.png?_nc_cat=104&ccb=3&_nc_sid=dd9801&_nc_ohc=__Jl0xFFtmsAX9B8jbs&_nc_oc=AQkRxUDS8Ooy1s2vrwxAgbX3nrdWiUsiSSOB0GPpuAAVfzklfZK3OlHpVDjYtERwZoU&_nc_ht=scontent.fdac24-1.fna&_nc_tp=30&oh=e5bf3424a35b813505a976e064b565a5&oe=6048C5EC" height=50px width=50px alt=""></a> </div> 
+              <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
+            </svg>
+            <span class="ml-3 text-xl">Ki Lagbe?</span>
+          </a>
+          <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2020 Tailblocks —
+            <a href="https://twitter.com/knyttneve" class="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@knyttneve</a>
+          </p>
+          <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
+            <a class="text-gray-500">
+              <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+                <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
+              </svg>
+            </a>
+            <a class="ml-3 text-gray-500">
+              <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+                <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
+              </svg>
+            </a>
+            <a class="ml-3 text-gray-500">
+              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+                <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
+                <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"></path>
+              </svg>
+            </a>
+            <a class="ml-3 text-gray-500">
+              <svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0" class="w-5 h-5" viewBox="0 0 24 24">
+                <path stroke="none" d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"></path>
+                <circle cx="4" cy="4" r="2" stroke="none"></circle>
+              </svg>
+            </a>
+          </span>
+        </div>
+      </footer></hr>
+      
+</body>
+</html>
